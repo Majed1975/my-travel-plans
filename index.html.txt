@@ -10,11 +10,11 @@
 
 <div class="container">
 <div class="destination-container">
-<div class="destination" id="florida">
+<div class="destination" id="florida- USA">
 <h2>Florida</h2>
 </div>
 
-<div class="destination" id="paris-france">
+<div class="destination" id="paris-France">
 <h2>Paris</h2>
 </div>
 </div>
